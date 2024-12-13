@@ -12,6 +12,10 @@ recyclebin <br>
 └── trash - deleted compressed files <br>
          └── 2024-12-13_02-37-01-item.txt.gz
 
+## Installiation
+
+run: <br>
+sudo chmod +x install.sh && ./install.sh
 
 ## Usage
 
