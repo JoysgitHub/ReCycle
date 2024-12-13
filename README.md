@@ -2,6 +2,9 @@
 Commandline Recycle bin for linux
 
 ## Recycle bin structure
+
+recyclebin in home directory
+
 recyclebin <br>
 ├── filenames - contains item details  <br>
 │      └── reception.csv  <br>
